@@ -1,4 +1,4 @@
-remote_theme: barryclark/jekyll-now
+remote_theme: barryclark/jekyll-now@v1.2.0
 
 title: xyeoni blog
 description: github blog
