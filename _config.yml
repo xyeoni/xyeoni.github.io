@@ -1,4 +1,4 @@
-remote_theme: mmistakes/minimal-mistakes@latest
+remote_theme: mmistakes/minimal-mistakes@master
 
 title: xyeoni blog
 description: github blog
