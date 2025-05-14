@@ -2,7 +2,7 @@ remote_theme: mmistakes/minimal-mistakes@latest
 
 title: xyeoni blog
 description: github blog
-baseurl: "" # 비워둬도 됨
+baseurl: "" 
 url: "https://xyeoni.github.io"
 
 plugins:
