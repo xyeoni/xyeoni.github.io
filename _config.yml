@@ -1,4 +1,4 @@
-remote_theme: mmistakes/minimal-mistakes@master
+remote_theme: barryclark/jekyll-now@master
 
 title: xyeoni blog
 description: github blog
