@@ -1,3 +1,24 @@
-title: 나의 첫 블로그
-description: 깃허브로 만든 블로그!
-theme: minima
+remote_theme: mmistakes/minimal-mistakes@latest
+
+title: xyeoni blog
+description: github blog
+baseurl: "" # 비워둬도 됨
+url: "https://xyeoni.github.io"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-include-cache
+
+markdown: kramdown
+highlighter: rouge
+
+# Optional
+paginate: 5
+paginate_path: /page:num/
+
+# 깔끔한 기본 설정
+theme: null
